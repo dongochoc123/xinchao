@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Net;
 using System.Text;
@@ -86,7 +86,7 @@ class Program
                 File.WriteAllBytes("video.mp4", videoData);  // Lưu video vào thư mục
 
                 Console.WriteLine($"Video đã được tải về: {localPath}");
-                return "video.mp4";
+                return "";
             }
         }
         catch (Exception ex)
@@ -302,9 +302,6 @@ class Program
                                                 string text = secondResponseContent.Split(new[] { "\"desc\":\"" }, StringSplitOptions.None)[1]
                                                                                    .Split(new[] { "\",\"create_time" }, StringSplitOptions.None)[0];
                                                 Console.WriteLine(data); // Log the response content
-
-                                                Console.WriteLine("");
-
                                                 return SendVideo(data, text);
                                             }
                                         }
