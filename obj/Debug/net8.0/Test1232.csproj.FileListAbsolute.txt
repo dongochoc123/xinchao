@@ -1,0 +1,17 @@
+C:\Users\Do Ngoc Hoc\source\repos\Test1232\Test1232\bin\Debug\net8.0\Test1232.exe
+C:\Users\Do Ngoc Hoc\source\repos\Test1232\Test1232\bin\Debug\net8.0\Test1232.deps.json
+C:\Users\Do Ngoc Hoc\source\repos\Test1232\Test1232\bin\Debug\net8.0\Test1232.runtimeconfig.json
+C:\Users\Do Ngoc Hoc\source\repos\Test1232\Test1232\bin\Debug\net8.0\Test1232.dll
+C:\Users\Do Ngoc Hoc\source\repos\Test1232\Test1232\bin\Debug\net8.0\Test1232.pdb
+C:\Users\Do Ngoc Hoc\source\repos\Test1232\Test1232\obj\Debug\net8.0\Test1232.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Do Ngoc Hoc\source\repos\Test1232\Test1232\obj\Debug\net8.0\Test1232.AssemblyInfoInputs.cache
+C:\Users\Do Ngoc Hoc\source\repos\Test1232\Test1232\obj\Debug\net8.0\Test1232.AssemblyInfo.cs
+C:\Users\Do Ngoc Hoc\source\repos\Test1232\Test1232\obj\Debug\net8.0\Test1232.csproj.CoreCompileInputs.cache
+C:\Users\Do Ngoc Hoc\source\repos\Test1232\Test1232\obj\Debug\net8.0\Test1232.dll
+C:\Users\Do Ngoc Hoc\source\repos\Test1232\Test1232\obj\Debug\net8.0\refint\Test1232.dll
+C:\Users\Do Ngoc Hoc\source\repos\Test1232\Test1232\obj\Debug\net8.0\Test1232.pdb
+C:\Users\Do Ngoc Hoc\source\repos\Test1232\Test1232\obj\Debug\net8.0\Test1232.genruntimeconfig.cache
+C:\Users\Do Ngoc Hoc\source\repos\Test1232\Test1232\obj\Debug\net8.0\ref\Test1232.dll
+C:\Users\Do Ngoc Hoc\source\repos\Test1232\Test1232\bin\Debug\net8.0\xNet.dll
+C:\Users\Do Ngoc Hoc\source\repos\Test1232\Test1232\obj\Debug\net8.0\Test1232.csproj.AssemblyReference.cache
+C:\Users\Do Ngoc Hoc\source\repos\Test1232\Test1232\obj\Debug\net8.0\Test1232.csproj.Up2Date
